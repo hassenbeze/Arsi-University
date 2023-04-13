@@ -1,0 +1,92 @@
+body{background-color:blue;
+
+}
+h1{
+    color: greenyellow;
+    background-color: brown;
+    height: 100px;
+    padding-left: 10px;
+    margin: center;
+    text-align: center;
+}
+.h1{
+    background-color: brown;
+    padding-left: 10px;
+    margin: center;
+    text-align: center;
+}
+page{
+    
+    color: aqua;
+    background-color: blue;
+    color: greenyellow;
+    background-color: brown;
+    height: 200px;
+    padding-left: 10px;
+    margin: center;
+    text-align: center;
+    
+}
+.page{
+    color: aqua;
+    text-decoration: aliceblue;
+    text-justify: auto;
+font-size: 50px;
+
+}
+li{
+    font-size: xx-large;
+}
+ul li a{
+    margin: left;
+    color:red;
+    width: 5%;
+    background: none;
+    display: inline-block;
+    padding: 25px;
+    padding-left: 30px;
+    
+
+}
+.ul li a{
+    margin: left;
+    color:red;
+    font-size: 50px;
+    width: 5%;
+    background: none;
+    display: inline-block;
+    padding: 25px;
+    padding-left: 30px;
+    
+    
+
+}
+.ul{
+ 
+    color: rgb(205, 50, 50);
+    padding: 40%;
+    text-align: right;
+
+    
+    
+}
+footer{
+    color: greenyellow;
+    background-color: brown;
+    height: 200px;
+    width: 1000px;
+    margin: center;
+    text-align: center;
+}
+.footer{
+    color: greenyellow;
+    background-color: brown;
+    height: 200px;
+    width: 1000px;
+    margin: center;
+    text-align: center;
+    font-size: 25px;
+    padding-left: 5px;
+padding: 5px;
+}
+
